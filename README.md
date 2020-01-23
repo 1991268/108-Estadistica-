@@ -9,4 +9,5 @@ Lista de actividades del curso
    + Creamos nuestro proyecto RStudio("108-Estadistica.Rproj")
    +Actualizamos nuestro reprositorio via version control ("Git")
    
-   
+   + :paperclip: Clase 2: 23.01.2020
+   + primera tarea del curso 
