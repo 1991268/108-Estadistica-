@@ -11,3 +11,6 @@ Lista de actividades del curso
    
    + :paperclip: Clase 2: 23.01.2020
    + primera tarea del curso 
+   
+   + Clase 3: 29.01.2020
+     + Instalar 
